@@ -23,7 +23,7 @@ A Python implementation of an N-Puzzle solver using A* search with the Manhattan
 Run with input file:
 
 ```bash
-python3 solver.py < input.txt
+python3 solver.py < input.txt```
 
 ## License
 
