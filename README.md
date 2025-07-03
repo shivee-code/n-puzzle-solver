@@ -23,8 +23,9 @@ A Python implementation of an N-Puzzle solver using A* search with the Manhattan
 Run with input file:
 
 ```bash
-python3 solver.py < input.txt```
+python3 solver.py < input.txt
 
+```bash
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
