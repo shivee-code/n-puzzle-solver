@@ -24,3 +24,8 @@ Run with input file:
 
 ```bash
 python3 solver.py < input.txt
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
